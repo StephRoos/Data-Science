@@ -26,7 +26,7 @@ The project is divided in 2 parts :
 * sklearn.metrics
 
 ## Additional Files
-* In 'Supplementary_data' folder, you will find the full answers choice for the 2021 Kaggle survey and the methodology used for the survey.
+* In 'supplementary_data' folder, you will find the full answers choice for the 2021 Kaggle survey and the methodology used for the survey.
 * In 'Screenshots' folder, you will find all the plots from the notebook in png format.
 
 ## Credits
