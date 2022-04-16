@@ -25,6 +25,10 @@ The project is divided in 2 parts :
 * sklearn.model_selection
 * sklearn.metrics
 
+## Additional Files
+* In 'Supplementary_data' folder, you will find the full answers choice for the 2021 Kaggle survey and the methodology used for the survey.
+* In 'Screenshots' folder, you will find all the plots from the notebook in png format.
+
 ## Credits
 Thanks to the following Kagglers for their inspirational work :
 * https://github.com/net-wizard/kaggle-survey-2020/blob/master/notebook/kaggle-survey-2020.ipynb
