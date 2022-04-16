@@ -1,5 +1,6 @@
 # Kaggle_Survey
-2021 Kaggle Survey Analysis and Salary Prediction Model
+2021 Kaggle Survey Analysis and Salary Prediction Model.
+Check the my Medium Blog Post : https://medium.com/@stphaneroos/2021-kaggle-survey-analysis-c6cd67bc80e7 
 
 ## Project Description
 Kaggle published its annual Machine Learning and Data Science Survey. About 26,000 users across the globe responded to this survey, disclosing much information about their demographic, behaviour, and opinions. 
