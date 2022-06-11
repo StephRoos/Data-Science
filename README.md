@@ -1,2 +1,2 @@
-# Learning Data Science Projects
-Repo with all projects done during my learning journey toward Data Science  
+# Udacity Data Science Nanodegree Projects
+Repo with all the projects submitted for the Udacity Data Science Nanodegree
